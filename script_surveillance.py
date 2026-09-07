@@ -6,7 +6,7 @@ import os
 
 # Configuration
 URL = "https://france.diplomatie.belgium.be/fr/services-consulaires/services-consulaires-marseille/missions-flying-kit-marseille"
-MOT_CLE = "marseille"
+MOT_CLE = "Marseille"
 
 # Configuration Email (via variables d'environnement pour la sécurité)
 EMAIL_EMETTEUR = os.environ.get("EMAIL_EMETTEUR")
